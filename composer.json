@@ -1,0 +1,15 @@
+{
+    "name": "admin/object",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Object\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "kaneki09999",
+            "email": "tanjirowkamado@gmail.com"
+        }
+    ],
+    "require": {}
+}
